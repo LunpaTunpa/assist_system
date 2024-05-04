@@ -1,2 +1,2 @@
 # assist_system
-The Python prototype of a program that assists in WIN OS maintenance routines for PDV totems and/or others.
+An authorial prototype in Python of a program that assists in the maintenance routines of the WIN OS of POS totems and/or others.
